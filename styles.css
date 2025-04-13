@@ -1,0 +1,21 @@
+body {
+    background-color: antiquewhite;
+    font-family: cursive;
+}
+
+.links-pages {
+    color: coral;
+    font-size: 18px;
+}
+
+h1, h2 {
+    color: brown;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+ol li {
+    margin-bottom: 12px;
+}
